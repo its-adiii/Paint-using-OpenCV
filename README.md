@@ -1,7 +1,7 @@
 <div align='center'>
 
 <h1>OpenCV, Python</h1>
-<p>MS Paint like application using OpenCV</p>
+<p>MS Paint like application using OpenCV with gesture detection </p>
 
 <h4> <span> · </span> <a href="https://github.com/its-adiii/Paint-using-OpenCVPaint-using-OpenCV/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/its-adiii/Paint-using-OpenCVPaint-using-OpenCV/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/its-adiii/Paint-using-OpenCVPaint-using-OpenCV/issues"> Request Feature </a> </h4>
 
